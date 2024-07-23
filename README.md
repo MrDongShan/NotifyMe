@@ -21,6 +21,12 @@ I want to make an application that sets the time to display system banner notifi
 - **Safety:** self-written
 - **Best Ever:** In a daydream
 
+## To-do list
+
+- [ ] shortcut (快捷方式：五分钟，十分钟等（自定义分钟小时数之后提醒）)
+- [ ] sms/DingTalk
+- [ ] internationalization
+
 ## Tech Stack
 
 - [Python](https://www.python.org/) – Language
